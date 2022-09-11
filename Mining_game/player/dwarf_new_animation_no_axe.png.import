@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dwarf_animation.png-d8d1624012e89c8caba174808890063a.stex"
+path="res://.import/dwarf_new_animation_no_axe.png-560a59df65a2c17d19a651bbe9bb197b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/dwarf_animation.png"
-dest_files=[ "res://.import/dwarf_animation.png-d8d1624012e89c8caba174808890063a.stex" ]
+source_file="res://player/dwarf_new_animation_no_axe.png"
+dest_files=[ "res://.import/dwarf_new_animation_no_axe.png-560a59df65a2c17d19a651bbe9bb197b.stex" ]
 
 [params]
 
